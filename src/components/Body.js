@@ -4,6 +4,7 @@ import resList from "../utils/mockData";
 import Shimmer from "./shimmer";
 
 const Body = () => {
+    // srdhkjhggggggggggggggggggggggggghjknnbbbbbbbbbbbbbbbbb
 
  
 // these are state variables it just same like normal varaibles but in this we pas two para so that we can values of this whenever we want
